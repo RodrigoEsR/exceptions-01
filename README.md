@@ -1,4 +1,5 @@
 EXCEPTIONS IN JAVA
+
 1a: Very bad option - validation logic in main program
 - Not delegated to the reservation.
 
